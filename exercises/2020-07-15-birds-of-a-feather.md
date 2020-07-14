@@ -15,3 +15,9 @@ Once in your group:
 
 Quick round of intros: Who you are, what you work on, and why you're intersted in this topic.
 
+Next, use the following discussion guides for your group. The leader or designated note taker in the group will record answers and submit notes to me at shelby.switzer@cms.hhs.gov at the end of the session.
+
+1. [Strategy, policy and user research breakout questions](https://github.com/switzersc-usds/cms-api-framework/blob/master/exercises/birds-of-a-feather-breakouts/strategy-policy-user-research.md)
+2. [API design breakout questions](https://github.com/switzersc-usds/cms-api-framework/blob/master/exercises/birds-of-a-feather-breakouts/api-design.md)
+3. [Testing, monitoring, and security breakout questions](https://github.com/switzersc-usds/cms-api-framework/blob/master/exercises/birds-of-a-feather-breakouts/strategy-policy-user-research.md)
+4. [Discovery, promotion, and change management breakout questions](https://github.com/switzersc-usds/cms-api-framework/blob/master/exercises/birds-of-a-feather-breakouts/discovery-promotion-change-management.md)
