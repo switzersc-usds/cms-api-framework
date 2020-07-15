@@ -9,7 +9,9 @@ We will form groups using Zoom's breakout feature. We are organizing into 4 topi
 3. API testing, monitoring, and security. Lead: Gina Maini
 4. API discovery, promotion, and change management. Lead: Anshul Kumar
 
-You can choose which group you'd like to participate in. It may take a few minutes to get everyone in the right group, so please be patient with us and don't step away for a break until you're in the group you want to be in.
+You can choose which group you'd like to participate in. Let us know beforehand which group by filling out [this form](https://forms.gle/8oYAMx3oemWTiSZA6). 
+
+It may take a few minutes to get everyone in the right group, so please be patient with us and don't step away for a break until you're in the group you want to be in.
 
 **Once in your group:**
 
